@@ -5,6 +5,6 @@ do
     echo 'whats commit message:'; read message;
     git commit -am "$message"
     git push
-    echo '----------'
+    echo '-----------'
     sleep 10
 done
