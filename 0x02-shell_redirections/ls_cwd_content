@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 2 root root 279 Mar 13 11:30 .
+drwxr-xr-x 6 root root 121 Mar 13 03:29 ..
+-rwxrw-r-- 1 root root  32 Mar 13 08:29 0-hello_world
+-rwxrw-r-- 1 root root  28 Mar 13 09:18 1-confused_smiley
+-rwxrw-r-- 1 root root  28 Mar 13 09:29 2-hellofile
+-rwxrw-r-- 1 root root  39 Mar 13 09:42 3-twofiles
+-rwxrw-r-- 1 root root  29 Mar 13 09:52 4-lastlines
+-rwxrw-r-- 1 root root  29 Mar 13 09:57 5-firstlines
+-rwxrw-r-- 1 root root  38 Mar 13 10:49 6-third_line
+-rwxrw-r-- 1 root root  99 Mar 13 11:21 7-file
+-rwxrw-r-- 1 root root  36 Mar 13 11:29 8-cwd_state
+-rw-r--r-- 1 root root  12 Mar 13 11:22 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxr--r-- 1 root root 171 Mar 13 08:13 git-C
+-rw-r--r-- 1 root root   0 Mar 13 11:30 ls_cwd_content
+-rw-r--r-- 1 root root  29 Mar 13 03:30 README.md
