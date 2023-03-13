@@ -1,0 +1,10 @@
+#!/bin/bash
+while true
+do
+    git add .
+    echo 'whats commit message:'; read message;
+    git commit -am "$message"
+    git push
+    echo '----------'
+    sleep 10
+done
